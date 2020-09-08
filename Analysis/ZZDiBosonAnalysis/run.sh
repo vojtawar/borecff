@@ -4,7 +4,7 @@ analysis="main_ZZDiBosonAnalysis"
 
 ##OPTION
 option=1
-parallel=1
+parallel=0
 
 
 ## execute and run ROOT
