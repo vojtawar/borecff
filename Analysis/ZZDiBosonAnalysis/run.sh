@@ -3,8 +3,7 @@
 analysis="main_ZZDiBosonAnalysis"
 
 ##OPTION
-echo Which option should I run? 
-option = 1
+option=1
 parallel=1
 
 
